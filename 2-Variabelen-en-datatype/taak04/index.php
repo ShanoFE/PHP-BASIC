@@ -1,4 +1,4 @@
 <?php
-$test = true
+$test ="true";
 echo $test
 ?>
